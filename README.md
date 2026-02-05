@@ -75,5 +75,13 @@ Teaches decentralized fundraising.
 
 
 Avoids fraud by ensuring funds are only transferred if the goal is met.
+# OUTPUT:
+
+<img width="1909" height="1146" alt="image" src="https://github.com/user-attachments/assets/6e2929b2-58ec-4876-a728-f1615599be80" />
+
+
+<img width="1914" height="1144" alt="image" src="https://github.com/user-attachments/assets/21058fda-3861-4e5f-8f76-f61e75e6ed67" />
 
 # RESULT: 
+
+Thus, the decentralized crowdfunding platform has been created and executed successfully .
